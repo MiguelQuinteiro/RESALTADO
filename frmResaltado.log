@@ -1,0 +1,9 @@
+Línea 17268: la clase MSFlexGridLib.MSFlexGrid del control MSFlexGrid1 no era una clase de control cargada.
+Línea 17274: el nombre de la propiedad _ExtentX de MSFlexGrid1 no es válido.
+Línea 17275: el nombre de la propiedad _ExtentY de MSFlexGrid1 no es válido.
+Línea 17276: el nombre de la propiedad _Version de MSFlexGrid1 no es válido.
+Línea 17277: el nombre de la propiedad Rows de MSFlexGrid1 no es válido.
+Línea 17278: el nombre de la propiedad Cols de MSFlexGrid1 no es válido.
+Línea 17279: el nombre de la propiedad FixedRows de MSFlexGrid1 no es válido.
+Línea 17280: el nombre de la propiedad FixedCols de MSFlexGrid1 no es válido.
+Línea 17282: el nombre de la propiedad AllowUserResizing de MSFlexGrid1 no es válido.
